@@ -1,4 +1,4 @@
-# hierarchical clustering 
+# Hierarchical Clustering 
 
 https://youtube.com/shorts/2xOex-B0yds
 
