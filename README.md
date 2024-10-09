@@ -12,6 +12,6 @@ https://youtube.com/shorts/flPDiidltgo?feature=share
 
 https://youtube.com/shorts/nnhfHNBDv9w?feature=share
 
-#Spectral Clustering
+# Spectral Clustering
 
 https://youtube.com/shorts/YUtQgi1su94
